@@ -1,0 +1,18 @@
+# Simulation output files
+*.vcd
+*.vvp
+*.out
+
+# Icarus Verilog compiled output
+a.out
+
+# GTKWave configuration
+*.gtkw
+
+# Backup files
+*~
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
